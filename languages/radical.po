@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radical\n"
+"POT-Creation-Date: 2016-04-23 13:47+0500\n"
+"PO-Revision-Date: 2016-04-23 13:47+0500\n"
+"Last-Translator: WPFlask <admin@wpflask.com>\n"
+"Language-Team: WPFlask <admin@wpflask.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:31
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought"
+msgid_plural "%1$s thoughts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:41 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:111
+msgid "Main Sidebar"
+msgstr ""
+
+#: header.php:43 header.php:44
+msgid "Menu"
+msgstr ""
+
+#: header.php:62
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:75 template-parts/content-page.php:21
+#: template-parts/content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: image.php:85
+msgid "Edit"
+msgstr ""
+
+#: image.php:93
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:94
+msgid "Next Image"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "General Options"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Main Sidebar Position (if active)"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Theme Support"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid ""
+"Thanks for your interest in Radical! If you have any questions or run into "
+"any trouble, please visit us the following links. We will get you fixed up!"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Support Forum"
+msgstr ""
+
+#: inc/extras.php:46
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:54
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/extras.php:62
+msgctxt "Add new subset (cyrillic, greek, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/extras.php:224
+msgid "Copyright"
+msgstr ""
+
+#: inc/extras.php:243
+msgid "Powered by"
+msgstr ""
+
+#: inc/template-tags.php:20
+msgid "Previous Page"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Next Page"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "Prev"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgctxt "post date"
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:113
+#, php-format
+msgid "All %s posts"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:151 inc/template-tags.php:157
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:153
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:159
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:163
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/biography.php:25
+msgid "Author:"
+msgstr ""
+
+#: template-parts/biography.php:30
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:22
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content.php:70
+msgid "Read More"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Radical Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpflask.com/radical/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Radical is a clean, responsive, retina ready and modern WordPress theme "
+"suitable for personal blogs or small and medium sized magazine websites. It "
+"comes with theme customizer, sidebar positions, sticky menu, sticky sidebar, "
+"featured posts, custom widgets, and many other options which make your work "
+"easier. We hope you will enjoy it and have a good time publishing your "
+"articles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPFlask"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpflask.com/"
+msgstr ""
